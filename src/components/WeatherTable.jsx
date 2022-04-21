@@ -1,4 +1,4 @@
-import React from 'react'
+/* import React from 'react'
 
 export class WeatherTable extends React.Component{ 
     render() {
@@ -12,11 +12,11 @@ export class WeatherTable extends React.Component{
                 </thead>
                 <tbody>
                     <td>{this.props.temp}</td>
-                    <td>{this.props.feels_like}</td>
-                    <td>{this.props.humidity}</td>
-                    <td>{this.props.pressure}</td>
+                    <td>{this.feels_like}</td>
+                    <td>{this.humidity}</td>
+                    <td>{this.pressure}</td>
                 </tbody>
             </table>
         )
     }
-}
+} */
